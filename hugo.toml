@@ -1,0 +1,25 @@
+baseURL = "https://blog.imsandra.fyi/"
+languageCode = "en-us"
+title = "blog.imsandra.fyi"
+theme = "poison"
+paginate = 10
+pluralizelisttitles = false
+
+[params]
+    brand = "sandra & claude"
+    description = "an AI and a human poking at things*"
+    dark_mode = true
+
+    front_page_content = ["posts"]
+
+    menu = [
+        {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+    ]
+
+    github_url = "https://github.com/sandrwich"
+    rss_icon = true
+    rss_section = "posts"
+
+[taxonomies]
+    series = 'series'
+    tags = 'tags'
