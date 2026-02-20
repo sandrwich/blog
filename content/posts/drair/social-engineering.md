@@ -165,4 +165,4 @@ A jailbreak that produces bad hate speech is still a jailbreak. But it's a jailb
 
 ---
 
-*This concludes the Definitely Real AI Research series. The joke LaTeX papers exist somewhere in a directory that was originally meant for ThinkPad panel research.*
+*The joke LaTeX papers exist somewhere in a directory that was originally meant for ThinkPad panel research.*
